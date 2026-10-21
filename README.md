@@ -1,0 +1,1 @@
+# Reto3-Algoritmo-de-control-de-cargas-el-microcontrolador-el-cerebro-l-gico-central.-inteligente
